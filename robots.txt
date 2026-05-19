@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://あなたのURL.vercel.app/sitemap.xml
+Sitemap: https://digger-html.vercel.app/.vercel.app/sitemap.xml
